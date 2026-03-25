@@ -14,7 +14,7 @@ All files are organized into subject-based subfolders. File names follow the pat
 
 | 資料夾 / Folder | 內容 (中文) | Contents (English) |
 |---|---|---|
-| [週易](./週易/) | 周易原典及歷代注疏、象數易學著作 | I Ching (Book of Changes) and its commentaries, numerological studies |
+| [周易](./周易/) | 周易原典及歷代注疏、象數易學著作 | I Ching (Book of Changes) and its commentaries, numerological studies |
 | [六壬](./六壬/) | 大六壬佔術經典 | Da Liu Ren divination classics |
 | [奇門遁甲](./奇門遁甲/) | 奇門遁甲及太乙神數經典 | Qi Men Dun Jia and Tai Yi Shen Shu classics |
 | [命理](./命理/) | 八字命理、星命等推算典籍 | BaZi (Four Pillars of Destiny), star-fate calculation |
