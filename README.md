@@ -28,7 +28,7 @@ All files are organized into subject-based subfolders. File names follow the pat
 
 ## 分類說明 / Category Notes
 
-- **週易**：收錄《週易》原文及歷代注疏，包括漢代易緯、宋明理學易註、象數圖書等。
+- **周易**：收錄《周易》原文及歷代注疏，包括漢代易緯、宋明理學易註、象數圖書等。
 - **六壬**：大六壬為三式之一，以天干地支與十二神將推演吉兇，本類收錄歷代六壬要籍。
 - **奇門遁甲**：三式之一，兼收太乙神數，為古代軍事與日用數術重要分支。
 - **命理**：以生辰八字推算人命運的學問，收錄子平法、星命學等經典著作。
@@ -37,8 +37,7 @@ All files are organized into subject-based subfolders. File names follow the pat
 - **占卜**：包括錢幣卦、梅花易數、禽星、測字等各種占卜方法。
 - **其他**：五行理論、天文星佔、軍事數術及其他綜合性著作。
 - **現代**：近現代學者對傳統數術的整理與研究著作。
--
-- **Yi Jing** (週易): The original *Book of Changes* and all generations of commentaries, including Han-dynasty *wei* apocrypha, Song-Ming Neo-Confucian annotations, and numerological diagrams.
+- **Yi Jing** (周易): The original *Book of Changes* and all generations of commentaries, including Han-dynasty *wei* apocrypha, Song-Ming Neo-Confucian annotations, and numerological diagrams.
 - **Liu Ren** (六壬): One of the "Three Arts" (*san shi*), which uses Heavenly Stems, Earthly Branches, and twelve divine generals to forecast events.
 - **Qi Men Dun Jia** (奇門遁甲): Another of the Three Arts; also includes Tai Yi Shen Shu. Historically important in military strategy and daily divination.
 - **Fate Calculation** (命理): The art of reading destiny through the Four Pillars of Birth (BaZi). Includes Zi Ping method and star-fate schools.
