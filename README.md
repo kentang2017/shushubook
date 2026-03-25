@@ -64,8 +64,8 @@ All files are organized into subject-based subfolders. File names follow the pat
 
 ### 中文
 
-本仓库所收录的文献均为中国传统古籍，绝大多数已属公共领域。整理、上传仅供学术研究与文化传承之用，请勿用于商业目的。
+本仓库所收录的文献均为中国传统古籍，绝大多数已属公共领域。整理、上传仅供学术研究与文化传承之用。
 
 ### English
 
-The texts in this repository are traditional Chinese classics, the vast majority of which are in the public domain. They are provided solely for academic research and cultural preservation. Commercial use is not permitted.
+The texts in this repository are traditional Chinese classics, the vast majority of which are in the public domain. They are provided solely for academic research and cultural preservation. 
