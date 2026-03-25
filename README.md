@@ -1,4 +1,4 @@
-# 數術書庫 / Shushu Book Collection
+# 術數書庫 / Shushu Book Collection
 
 ## 簡介 / Introduction
 This repository is a collection of Chinese traditional metaphysics (*shushu* 數術) classics, spanning the fields of Yi Jing studies, Liu Ren divination, Qi Men Dun Jia, fate calculation (BaZi), Feng Shui, physi​​annoi, class 0. ranging from the pre-Qin period to the modern era.
